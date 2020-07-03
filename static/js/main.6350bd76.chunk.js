@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-movie-web-service"]=this["webpackJsonpreact-movie-web-service"]||[]).push([[0],{16:function(e,t,n){e.exports=n(26)},26:function(e,t,n){"use strict";n.r(t);var a=n(0),r=n.n(a),c=n(13),o=n.n(c);var i=function(){return r.a.createElement("span",null,"About this page: I built it because I love movies")},u=n(14),s=n(1);var l=function(){return r.a.createElement(u.a,null,r.a.createElement(s.a,{path:"/about",component:i}))};o.a.render(r.a.createElement(l,null),document.getElementById("movie"))}},[[16,1,2]]]);
+//# sourceMappingURL=main.6350bd76.chunk.js.map
